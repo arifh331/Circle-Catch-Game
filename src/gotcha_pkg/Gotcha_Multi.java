@@ -1,7 +1,6 @@
-//ARIF HOWLADER
+//ARIF HOWLADER 5/7/20 
 
-//ah3288 TTH 11AM to 12:15PM 
-//Multi-Gotcha
+//Multi-Gotcha Game
 package gotcha_pkg;
 
 import processing.core.PApplet;
