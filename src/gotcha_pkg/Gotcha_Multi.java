@@ -13,7 +13,7 @@ public class Gotcha_Multi extends PApplet {
     int timer;
     
     // Game length in milliseconds
-    int gameDuration = 5 * 1000;
+    int gameDuration = 15 * 1000;
     
     // Keep track of current score
     static int score = 0;
